@@ -20,12 +20,12 @@ $ cargo test
 
 ### To do
 
-- [] Allow sentences as query
-- [] Add support for flags
-  - [] --help | -h to show instructions
-  - [] --sensitive | --s to query with case sensitive on
-  - [] --first | --f to show only the firs occurrence
-- [] Create more scenario tests
-  - [] case sensitive
-  - [] full phrase
-- [] Publish to homebre and apt repositories
+- [ ] Allow sentences as query
+- [ ] Add support for flags
+  - [ ] --help | -h to show instructions
+  - [ ] --sensitive | --s to query with case sensitive on
+  - [ ] --first | --f to show only the firs occurrence
+- [ ] Create more scenario tests
+  - [ ] case sensitive
+  - [ ] full phrase
+- [ ] Publish to homebre and apt repositories
